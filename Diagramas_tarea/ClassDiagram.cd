@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Euclides">
+    <Position X="1" Y="1.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAMAAAAAAACAAAQAAAAAAAAAQAAAAAABA=</HashCode>
+      <FileName>Euclides.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Piramide">
+    <Position X="3.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAAAAAAAAAAAAAAQAABAgAQAAAAAAAAIAA=</HashCode>
+      <FileName>Piramide.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Triangulo">
+    <Position X="5" Y="1.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAABAAAAAAAAQACABgAAAEAAAAAAIAA=</HashCode>
+      <FileName>Triangulo.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
